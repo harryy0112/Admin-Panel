@@ -5,11 +5,13 @@ This project is a web application that implements user authentication and admin 
 ## Features
 
 - **User Authentication**:
+
   - Register: Allows new users to register with a first name, last name, email, and password.
   - Login: Registered users can log in using their email and password.
   - Logout: Logged-in users can log out.
 
 - **Admin Panel**:
+
   - User Management:
     - Create: Admin can add new users.
     - Read: Admin can view the list of users with pagination and search functionality.
@@ -25,6 +27,7 @@ This project is a web application that implements user authentication and admin 
 ## Technologies Used
 
 - Frontend:
+
   - React.js
   - React Router
   - Redux for state management
@@ -53,3 +56,4 @@ Before running the project, ensure you have the following installed:
    ```bash
    git clone <repository-url>
    cd admin-panel
+   ```
