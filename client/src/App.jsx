@@ -1,11 +1,11 @@
-import React from 'react';
-import { Provider } from 'react-redux';
-import { Route, BrowserRouter as Router, Switch } from 'react-router-dom';
-import AdminPanel from './components/AdminPanel';
-import HomePage from './components/HomePage';
-import Login from './components/Login';
-import Register from './components/Register';
-import store from './store';
+import React from "react";
+import { Provider } from "react-redux";
+import { Route, BrowserRouter as Router, Switch } from "react-router-dom";
+import AdminPanel from "./components/AdminPanel";
+import HomePage from "./components/HomePage";
+import Login from "./components/Login";
+import Register from "./components/Register";
+import store from "./store";
 
 function App() {
   return (

@@ -1,6 +1,5 @@
 import axios from "axios";
 import React, { useEffect, useState } from "react";
-import { Button, Form, FormControl, Table } from "react-bootstrap";
 
 function AdminPanel() {
   const [users, setUsers] = useState([]);
