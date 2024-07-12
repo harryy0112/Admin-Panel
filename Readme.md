@@ -5,7 +5,7 @@ This project is a web application that implements user authentication and admin 
 ## Features
 
 - **User Authentication**:
-
+ww
   - Register: Allows new users to register with a first name, last name, email, and password.
   - Login: Registered users can log in using their email and password.
   - Logout: Logged-in users can log out.
